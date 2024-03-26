@@ -6,7 +6,7 @@ adalah bahasa standar/pedoman yang dirancang untuk ditampilkan dalam web browser
 ## KOMPONEN HTML
 
 ### html
-* define an HTML documents
+* define as an HTML documents
 
 ### div
 * Merupakan wadah umum untuk aliran konten HTML
